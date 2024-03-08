@@ -1,0 +1,56 @@
+
+.container {
+
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Form styles */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-control {
+    border: 2px solid #2596be;
+    border-radius: 5px;
+  }
+  
+
+  button {
+    background-color: #2596be;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #207ea5;
+  }
+  
+  /* Centered text */
+  .text-center {
+    text-align: center;
+    color: #2596be;
+  }
+  
+  /* Link styles */
+  .link {
+    color: #2596be;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Toast container styles */
+  .toast-container {
+    top: 20px;
+    right: 20px;
+  }
+  
